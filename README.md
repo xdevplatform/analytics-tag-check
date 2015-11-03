@@ -4,7 +4,9 @@
 
 To help Twitter and our partners confirm correct installation of Twitter Conversion Tracking tags, this Chrome Extension checks whether 
 advertisers have setup the tags correctly. This tool provides a simple visual indicator in the location bar, as well as additionally 
-debugging information and history tracking logging. 
+debugging information and history tracking logging.
+
+<img src="screenshot.png" style="width: 70%;"/> 
 
 ## Installation
 

@@ -2,8 +2,7 @@
   "manifest_version": 2,
   "version": "1.3",
   "name": "Analytics Tag Check",
-  "description": "Displays an icon if there is a twitter analytics pixel on a given page",
-  "update_url": "http://go/chrome-ext/update",
+  "description": "Displays an icon if there is are properly formatted Twitter Conversion Tracking tags (analytics pixel) on a given page",
   "background": {
     "scripts": ["background.js"]
   },
