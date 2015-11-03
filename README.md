@@ -23,6 +23,8 @@ This indicates that the pixel is loading properly. Furthermore, if you click on 
 Lastly, if you click on the history icon, you will see a historical list of all pages you have visited that the Twitter Conversion Tracking
 tags have appeared. 
 
+<img src="images/history.png" style="width: 70%;"/>
+
 ## How it works
 
 ## Credits
