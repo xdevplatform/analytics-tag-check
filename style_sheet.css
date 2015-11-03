@@ -1,0 +1,117 @@
+		body{
+			font-family: "Helvetica Neue",Arial,sans-serif;
+			color: #333333;
+			margin:0px;
+			min-width:350px;
+			margin-bottom:10px;
+		}
+		h2{
+			font-size:18px;
+			margin-top:2px;
+			margin-bottom:5px;
+		}
+		.table{
+			width:100%;
+			font-size:13px;
+			   border-spacing:0;
+    border-collapse:collapse;
+		}
+		.fixed{
+			position:fixed;
+		}
+		.top{
+			top:0;
+		}
+		.big_head{
+			margin-top:50px;
+		}
+
+
+		thead {
+			font-weight:800;
+		}
+		.clean{
+			margin:0px;
+			padding:0px;
+		}
+		.info{
+			margin-left:10px;
+		}
+		.data{
+			margin-top:50px;
+			width:100%;
+		}
+		.info p{
+			font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+			font-weight: 300;
+			margin-top:2px;
+			margin-bottom: 2px;
+		}
+		.debug, .history{
+			width:30px;
+			margin-right:10px;
+			vertical-align: center;
+		}
+		.debug:hover, .history:hover, .logo:hover{
+			opacity:0.4;
+			cursor:hand;
+		}
+		.left{
+			float:left;
+		}
+		.right{
+			float:right;
+		}
+		.inline{
+			display:inline;
+		}
+		.clear{
+			clear:both;
+		}
+		.title{
+			color:#333333;
+			float:left;
+		}
+		header{
+			padding-top:4px;
+			padding-left:5px;
+			padding-right:5px;
+			border-bottom:1px solid #CCCCCC;
+			width:100%;
+			background:rgb(255, 255, 255);
+		}
+		article{
+			padding-left:5px;
+			padding-right:5px;
+		}
+		.desc{
+			font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+			font-size:13px;
+		}
+		.logo{
+			width:25px;
+			margin-right:10px;
+			margin-left:5px;
+			margin-bottom:10px;
+		}
+		.date{
+			width:220px;
+			text-align: center;
+		}
+		td {
+			padding-left:10px;
+			height:33px;
+		}
+		tr:nth-child(even) {
+		    background-color: #EEEEEE;
+		}		
+		.ref{
+			font-size:16px;
+			font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+			font-weight: 300;
+		}
+		footer{
+			position:fixed;
+			bottom:0;
+			width:100%;
+		}
