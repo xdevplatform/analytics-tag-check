@@ -10,7 +10,9 @@ debugging information and history tracking logging.
 
 ## Installation
 
-You an install a public unlisted version of this Chrome extension by visiting the link below:
+You can install a public unlisted version of this Chrome extension by visiting the link below:
+
+https://chrome.google.com/webstore/detail/analytics-tag-check/hlliekdnopinjndmlnhmonepohnanjjp
 
 ## Usage
 

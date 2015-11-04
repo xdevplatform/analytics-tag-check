@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "version": "1.3",
-  "name": "Analytics Tag Check",
+  "version": "1.3.1",
+  "name": "TwitterDev Conversion Tracking Tags Checker",
   "description": "Displays an icon if there is are properly formatted Twitter Conversion Tracking tags (analytics pixel) on a given page",
   "background": {
     "scripts": ["background.js"]
